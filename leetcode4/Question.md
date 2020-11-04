@@ -56,6 +56,10 @@ nums2.length == n
 
 如果`A[k/2−1]=B[k/2−1]`，则可以归入第一种情况处理。
 
+###来源：
+力扣（LeetCode）  
+链接：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+
 ### 执行结果：
 通过
 显示详情 执行用时： 3 ms, 在所有 Java 提交中击败了 76.62%的用户
