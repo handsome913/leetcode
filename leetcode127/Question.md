@@ -11,7 +11,7 @@
 - 字典中不存在重复的单词。
 - 你可以假设 beginWord 和 endWord 是非空的，且二者不相同。
 
-###示例1：
+### 示例1：
 ```
 输入：
 beginWord = "hit",
@@ -23,7 +23,7 @@ wordList = ["hot","dot","dog","lot","log","cog"]
 解释: 一个最短转换序列是 "hit" -> "hot" -> "dot" -> "dog" -> "cog",
      返回它的长度 5。
 ```
-###示例2
+### 示例2
 ```
 输入:
 beginWord = "hit"

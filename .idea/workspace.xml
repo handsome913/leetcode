@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67caf8a-8186-4c94-82f5-4f38eced527a" name="Default" comment="Commit by Genius Cheng">
-      <change afterPath="$PROJECT_DIR$/leetcode127/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode6/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode127/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode127/Question.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/leetcode127/Question.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <first_editor relative-caret-position="324">
+                <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -85,7 +83,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -194,7 +192,7 @@
       <workItem from="1604241127080" duration="3308000" />
       <workItem from="1604280005491" duration="6270000" />
       <workItem from="1604455699696" duration="4430000" />
-      <workItem from="1604631640633" duration="1425000" />
+      <workItem from="1604631640633" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="Commit by Genius Cheng">
       <created>1604288869827</created>
@@ -207,7 +205,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15433000" />
+    <option name="totallyTimeSpent" value="15696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -381,8 +379,8 @@
     <entry file="file://$PROJECT_DIR$/leetcode127/Question.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <first_editor relative-caret-position="324">
+            <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
