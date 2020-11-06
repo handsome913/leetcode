@@ -24,7 +24,7 @@
  * E C   I H   N
  * T     S     G
  * */
-class Solution {
+public class Solution {
     public String convert(String s, int numRows) {
         if(numRows<2) return s;
         List<StringBuilder> rows = new ArrayList<StringBuilder>();
