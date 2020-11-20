@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d67caf8a-8186-4c94-82f5-4f38eced527a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode147/Insertion-sort-example-300px.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode147/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode147/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode147/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode283/Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode283/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode6/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="d67caf8a-8186-4c94-82f5-4f38eced527a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +32,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode147/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="6">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Question.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode147/Question.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -310,7 +301,7 @@
       <workItem from="1605795188323" duration="484000" />
       <workItem from="1605795710717" duration="1122000" />
       <workItem from="1605859353605" duration="822000" />
-      <workItem from="1605860194560" duration="3285000" />
+      <workItem from="1605860194560" duration="3918000" />
     </task>
     <task id="LOCAL-00001" summary="Commit by Genius Cheng">
       <created>1604288869827</created>
@@ -326,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1604894676355</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leecode147 finish">
+      <created>1605864009678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605864009678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38354000" />
+    <option name="totallyTimeSpent" value="38987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -404,7 +402,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit by Genius Cheng" />
     <MESSAGE value="leetcode127 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode127 finish" />
+    <MESSAGE value="leecode147 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="leecode147 finish" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode283/Solution.java">
@@ -816,6 +815,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode147/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode147/Question.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -823,13 +829,6 @@
             <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode147/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
